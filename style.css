@@ -1,12 +1,11 @@
 * {
   max-width: 1920px;
-  max-height: 1080px;
-  overflow: hidden;
 }
 
 body {
   background-image: url("img/background.jpg");
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .port-h1 {
@@ -46,4 +45,20 @@ body {
 
 .portrait {
   height: 500px;
+}
+
+.i {
+  display: inline;
+}
+
+.bb-1 {
+  border-bottom: 2px solid white;
+}
+
+.padding-b {
+  padding-bottom: 20px;
+}
+
+.padding-t {
+  padding-top: 20px;
 }
