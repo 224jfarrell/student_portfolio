@@ -62,3 +62,18 @@ body {
 .padding-t {
   padding-top: 20px;
 }
+
+.img-g {
+  width: 25%;
+  display: inline;
+}
+
+.inline {
+  width: 25%;
+  display: inline;
+}
+
+.invisalink {
+  color: black;
+  text-decoration: none;
+}
